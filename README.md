@@ -1,2 +1,1 @@
-# hello-world
-My first repository 
+I actually do not have any experience with coding.
